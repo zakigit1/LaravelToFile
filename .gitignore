@@ -1,0 +1,6 @@
+# Ignore all text files
+*.txt
+
+# OS specific files
+.DS_Store
+Thumbs.db
